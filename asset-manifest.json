@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/startups-hq/static/css/main.cf467c5e.chunk.css",
+    "main.js": "/startups-hq/static/js/main.e288914c.chunk.js",
+    "main.js.map": "/startups-hq/static/js/main.e288914c.chunk.js.map",
+    "runtime-main.js": "/startups-hq/static/js/runtime-main.54b6c546.js",
+    "runtime-main.js.map": "/startups-hq/static/js/runtime-main.54b6c546.js.map",
+    "static/js/2.33d10d15.chunk.js": "/startups-hq/static/js/2.33d10d15.chunk.js",
+    "static/js/2.33d10d15.chunk.js.map": "/startups-hq/static/js/2.33d10d15.chunk.js.map",
+    "static/js/3.d351e45c.chunk.js": "/startups-hq/static/js/3.d351e45c.chunk.js",
+    "static/js/3.d351e45c.chunk.js.map": "/startups-hq/static/js/3.d351e45c.chunk.js.map",
+    "index.html": "/startups-hq/index.html",
+    "static/css/main.cf467c5e.chunk.css.map": "/startups-hq/static/css/main.cf467c5e.chunk.css.map",
+    "static/js/2.33d10d15.chunk.js.LICENSE.txt": "/startups-hq/static/js/2.33d10d15.chunk.js.LICENSE.txt",
+    "static/media/Details.css": "/startups-hq/static/media/background_6.d46ea291.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54b6c546.js",
+    "static/js/2.33d10d15.chunk.js",
+    "static/css/main.cf467c5e.chunk.css",
+    "static/js/main.e288914c.chunk.js"
+  ]
+}
